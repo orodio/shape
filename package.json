@@ -4,7 +4,7 @@
   "description": "declarative way of checking if an entity is a shape",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/mocha/bin/mocha --opts .mocha ./src/**/*_test.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,10 @@
     "shape"
   ],
   "author": "orodio <james@bjorkman.ca>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "lodash": "^3.10.1",
+    "mocha": "^2.3.4"
+  }
 }
