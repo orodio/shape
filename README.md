@@ -1,7 +1,8 @@
-# louis
-1 - make sure at least node 5.0.0 is installed
-2 - clone this directory somewhere
-3 - npm install
-4 - npm test
+# louis - do these things
+
+* make sure at least node 5.0.0 is installed
+* clone this directory somewhere
+* npm install
+* npm test
 
 > if you see a nyan cat you are set
