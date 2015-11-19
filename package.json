@@ -1,0 +1,20 @@
+{
+  "name": "shape",
+  "version": "0.0.0",
+  "description": "declarative way of checking if an entity is a shape",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/orodio/shape"
+  },
+  "keywords": [
+    "invariant",
+    "fact",
+    "shape"
+  ],
+  "author": "orodio <james@bjorkman.ca>",
+  "license": "MIT"
+}
